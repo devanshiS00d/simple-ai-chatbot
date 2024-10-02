@@ -1,5 +1,5 @@
-# MIT 6.XXX: Introduction to AI-Powered Chatbots
-## Spring 2024
+ Introduction to AI-Powered Chatbots
+## Fall 2024
 
 Welcome to the practical component of Georgia Tech undergraduate course on computational media! This README serves as your guide to understanding, implementing, and experimenting with a simple yet powerful AI chatbot.
 
