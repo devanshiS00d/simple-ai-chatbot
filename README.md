@@ -27,7 +27,7 @@ By the end of this module, you should be able to:
 
 1. Clone this repository to your local machine:
    ```
-   git clone https://github.com/mit-csail/ai-chatbot-intro.git
+   git clone https://github.com/GT-csail/ai-chatbot-intro.git
    ```
 
 2. Open `index.html` in your preferred web browser.
@@ -91,11 +91,11 @@ Your final submission should include:
 
 - [OpenAI API Documentation](https://platform.openai.com/docs/api-reference)
 - [MDN Web Docs](https://developer.mozilla.org/)
-- [Ethical AI: MIT Course 6.S979 Notes](https://mit-6-s979.github.io/)
+- [Ethical AI: GT Course 6.S979 Notes](https://MIT-6-s979.github.io/)
 
 ### Academic Integrity
 
-Remember, this project is an opportunity for learning and growth. While collaboration is encouraged, direct copying of code or ideas without understanding and personal contribution is against MIT's academic integrity policies.
+Remember, this project is an opportunity for learning and growth. While collaboration is encouraged, direct copying of code or ideas without understanding and personal contribution is against GT's academic integrity policies.
 
 Good luck, and have fun exploring the world of AI-powered chatbots!
 
